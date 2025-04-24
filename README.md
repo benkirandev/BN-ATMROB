@@ -1,4 +1,4 @@
-[## Image
+# Image
 ![Image](https://i.imgur.com/4cCf0iu.png)
 
 ## Preview
